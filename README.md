@@ -1,50 +1,98 @@
-# 👋 Olá, eu sou o Tales!
+# 👋 Olá, eu sou o Tales Henrique!
 
-🎯 Desenvolvedor **Backend Java** em formação, focado em construir aplicações robustas, bem arquitetadas e prontas para ambiente real de produção.
+🎯 Desenvolvedor Backend Java e estudante de Engenharia de Software, focado na construção de aplicações escaláveis, APIs REST e soluções orientadas a regras de negócio.
 
-Atualmente estou desenvolvendo um projeto completo de nível profissional chamado **Anchor Prime**, que serve como meu principal projeto de portfólio e base de estudos avançados em backend.
-
----
-
-## 🚀 Foco atual
-
-- Java 17
-- Spring Boot
-- APIs REST
-- Spring Data JPA / Hibernate
-- PostgreSQL
-- Flyway
-- Docker
-- (Em breve) Spring Security + JWT
+Atualmente desenvolvo projetos próprios completos, atuando desde a modelagem de dados e arquitetura até a implementação, manutenção e evolução contínua dos sistemas.
 
 ---
 
-## 🧱 Projeto Principal
+## 🚀 Principais Tecnologias
 
-### ⚓ Anchor Prime — Plataforma de Gestão Empresarial (Backend)
+* Java 17/21
+* Spring Boot
+* APIs REST
+* Spring Data JPA / Hibernate
+* PostgreSQL
+* Spring Security
+* JWT
+* Git e GitHub
+* Docker
+* SQL
+* Maven
+* Linux
 
-> Sistema backend profissional para gestão de pedidos, catálogo e usuários, com:
-- Cadastro por convite
-- Controle de acesso e autenticação
-- Catálogo interno de produtos
-- Gestão de pedidos e propostas
-- Histórico e rastreabilidade
-- Arquitetura pronta para produção
+Atualmente expandindo conhecimentos em:
 
-🔗 Repositório: *(em breve será público aqui)*
+* AWS
+* Kubernetes
+* Inteligência Artificial
+* Machine Learning
+* Engenharia de IA
+
+---
+
+## 🧱 Projetos em Destaque
+
+### ⚓ Anchor Prime
+
+Plataforma de gestão comercial desenvolvida com Java, Spring Boot e PostgreSQL.
+
+Principais funcionalidades:
+
+* Controle de acesso com JWT
+* Gestão de usuários e permissões
+* Gestão de propostas e pedidos
+* APIs REST
+* Arquitetura em camadas
+* Modelagem relacional
 
 ---
 
-## 📚 Em constante evolução
+### 📋 Sistema Automatizado de Escalas
 
-Este GitHub é focado em:
+Sistema responsável pela geração automática de escalas operacionais utilizando regras de negócio complexas.
 
-- Projetos reais de backend
-- Boas práticas de arquitetura
-- Código limpo e organizado
-- Evolução contínua como desenvolvedor Java
+Destaques:
+
+* Distribuição inteligente de participantes
+* Controle de vínculos e substituições
+* Histórico operacional
+* PostgreSQL
+* Backend Java completo
 
 ---
+
+### 🌎 EcoWatch
+
+Projeto voltado ao monitoramento ambiental utilizando análise de dados geoespaciais e imagens de satélite.
+
+Objetivos:
+
+* Identificação de alterações ambientais
+* Detecção de queimadas e desmatamento
+* Geração automatizada de relatórios
+* Evolução para uso de Inteligência Artificial
+
+---
+
+## 📚 Objetivos Profissionais
+
+Meu foco de carreira está na evolução como Desenvolvedor Backend Java, com especialização gradual em:
+
+* Cloud Computing
+* Arquitetura de Software
+* Engenharia de IA
+* Machine Learning
+* Sistemas Distribuídos
+
+---
+
+## 💡 Filosofia
+
+Acredito que software de qualidade nasce da combinação entre boas práticas, aprendizado contínuo e resolução eficiente de problemas reais.
+
+Busco constantemente evoluir minhas habilidades técnicas através de projetos práticos, estudo contínuo e desafios cada vez mais complexos.
+
 
 ## 📫 Contato
 
